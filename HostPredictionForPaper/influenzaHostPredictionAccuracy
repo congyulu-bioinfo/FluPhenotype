@@ -1,0 +1,7 @@
+type	rightNum	totalNUm	Accuracy
+avian_nucl	693	720	0.963
+avian_prot	720	720	1.0
+swine_nucl	374	395	0.947
+swine_prot	352	395	0.891
+human_nucl	902	1000	0.902
+human_prot	983	1000	0.983

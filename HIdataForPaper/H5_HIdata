@@ -1,0 +1,41 @@
+#The dAH distance between viral strains of influenza H5 viruses:
+A/np/Washington/40964/2014	A/gf/Washington/41088-6/2014 RG43A	1.41
+A/np/Washington/40964/2014	A/mallard/Korea/W452/2014	2.83
+A/np/Washington/40964/2014	A/duck/England/36254/2014	1.41
+A/np/Washington/40964/2014	A/Sichuan/2622120/2014 RG42A	1.41
+A/np/Washington/40964/2014	A/o.magpie robin/HK/6154/2015	45.25
+A/np/Washington/40964/2014	A/ck/VN/NCVD-15A59/2015	2.83
+A/gf/Washington/41088-6/2014 RG43A	A/mallard/Korea/W452/2014	1.0
+A/gf/Washington/41088-6/2014 RG43A	A/duck/England/36254/2014	2.0
+A/gf/Washington/41088-6/2014 RG43A	A/Sichuan/2622120/2014 RG42A	2.0
+A/gf/Washington/41088-6/2014 RG43A	A/o.magpie robin/HK/6154/2015	32.0
+A/gf/Washington/41088-6/2014 RG43A	A/ck/VN/NCVD-15A59/2015	2.83
+A/mallard/Korea/W452/2014	A/duck/England/36254/2014	1.41
+A/mallard/Korea/W452/2014	A/Sichuan/2622120/2014 RG42A	5.66
+A/mallard/Korea/W452/2014	A/o.magpie robin/HK/6154/2015	16.0
+A/mallard/Korea/W452/2014	A/ck/VN/NCVD-15A59/2015	4.0
+A/duck/England/36254/2014	A/Sichuan/2622120/2014 RG42A	2.0
+A/duck/England/36254/2014	A/o.magpie robin/HK/6154/2015	16.0
+A/duck/England/36254/2014	A/ck/VN/NCVD-15A59/2015	2.0
+A/Sichuan/2622120/2014 RG42A	A/o.magpie robin/HK/6154/2015	11.31
+A/Sichuan/2622120/2014 RG42A	A/ck/VN/NCVD-15A59/2015	2.0
+A/o.magpie robin/HK/6154/2015	A/ck/VN/NCVD-15A59/2015	11.31
+A/Anhui/1/2005	A/Sichuan/26221/2014 IDCDC-RG42A	64.0
+A/Anhui/1/2005	A/duck/England/36254/2014	22.63
+A/Anhui/1/2005	A/chicken/Vietnam/NCVD-15A59/2015	16.0
+A/Anhui/1/2005	A/duck/Hyogo/1/2016	16.0
+A/Sichuan/26221/2014 IDCDC-RG42A	A/duck/England/36254/2014	2.0
+A/Sichuan/26221/2014 IDCDC-RG42A	A/chicken/Vietnam/NCVD-15A59/2015	2.0
+A/Sichuan/26221/2014 IDCDC-RG42A	A/duck/Hyogo/1/2016	4.0
+A/duck/England/36254/2014	A/chicken/Vietnam/NCVD-15A59/2015	1.41
+A/duck/England/36254/2014	A/duck/Hyogo/1/2016	8.0
+A/chicken/Vietnam/NCVD-15A59/2015	A/duck/Hyogo/1/2016	2.83
+A/Anhui/1/2005 RG	A/Sichuan/26221/2014 IDCDC-RG42A	181.02
+A/Anhui/1/2005 RG	A/Hubei/29578/2016	90.51
+A/Sichuan/26221/2014 IDCDC-RG42A	A/Hubei/29578/2016	22.63
+A/Viet Nam/1203/2004	A/Hubei/1/2010 PR8 IDCDC-RG30	11.31
+A/Viet Nam/1203/2004	A/duck/Bangladesh/19097/2013 SJ001	32.0
+A/Hubei/1/2010 PR8 IDCDC-RG30	A/duck/Bangladesh/19097/2013 SJ001	2.83
+A/Sichuan/26221/2014	A/Hubei/29578/2016	22.63
+A/Sichuan/26221/2014	A/Fujian-Sanyuan/21099/2017	2.83
+A/Hubei/29578/2016	A/Fujian-Sanyuan/21099/2017	16.0

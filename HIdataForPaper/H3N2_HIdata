@@ -1,0 +1,82 @@
+#The dAH distance between viral strains of influenza H3N2 viruses:
+A/Stockholm/6/2014	A/Hong Kong/5738/2014	1.41
+A/Stockholm/6/2014	A/Bretagne/1413/2017	5.66
+A/Stockholm/6/2014	A/Singapore/INFIMH-16-0019/2016	5.66
+A/Stockholm/6/2014	A/Hong Kong/656/2018	4.0
+A/Stockholm/6/2014	A/Switzerland/8060/2017	5.66
+A/Stockholm/6/2014	A/Norway/2620/2018	0
+A/Stockholm/6/2014	A/England/538/2018	4.0
+A/Hong Kong/5738/2014	A/Bretagne/1413/2017	4.0
+A/Hong Kong/5738/2014	A/Singapore/INFIMH-16-0019/2016	2.0
+A/Hong Kong/5738/2014	A/Hong Kong/656/2018	1.41
+A/Hong Kong/5738/2014	A/Switzerland/8060/2017	2.83
+A/Hong Kong/5738/2014	A/Norway/2620/2018	0
+A/Hong Kong/5738/2014	A/England/538/2018	4.0
+A/Bretagne/1413/2017	A/Singapore/INFIMH-16-0019/2016	8.0
+A/Bretagne/1413/2017	A/Hong Kong/656/2018	1.41
+A/Bretagne/1413/2017	A/Switzerland/8060/2017	1.0
+A/Bretagne/1413/2017	A/Norway/2620/2018	0
+A/Bretagne/1413/2017	A/England/538/2018	8.0
+A/Singapore/INFIMH-16-0019/2016	A/Hong Kong/656/2018	8.0
+A/Singapore/INFIMH-16-0019/2016	A/Switzerland/8060/2017	2.83
+A/Singapore/INFIMH-16-0019/2016	A/Norway/2620/2018	2.0
+A/Singapore/INFIMH-16-0019/2016	A/England/538/2018	5.66
+A/Hong Kong/656/2018	A/Switzerland/8060/2017	1.0
+A/Hong Kong/656/2018	A/Norway/2620/2018	0
+A/Hong Kong/656/2018	A/England/538/2018	5.66
+A/Switzerland/8060/2017	A/Norway/2620/2018	0
+A/Switzerland/8060/2017	A/England/538/2018	8.0
+A/Norway/2620/2018	A/England/538/2018	0
+A/Stockholm/6/2014	A/Hong Kong/5738/2014	2.0
+A/Stockholm/6/2014	A/Bretagne/1413/2017	4.0
+A/Stockholm/6/2014	A/Singapore/INFIMH-16-0019/2016	4.0
+A/Stockholm/6/2014	A/England/538/2018	2.83
+A/Stockholm/6/2014	A/Netherlands/10260/2018	45.25
+A/Hong Kong/5738/2014	A/Bretagne/1413/2017	2.83
+A/Hong Kong/5738/2014	A/Singapore/INFIMH-16-0019/2016	5.66
+A/Hong Kong/5738/2014	A/England/538/2018	1.0
+A/Hong Kong/5738/2014	A/Netherlands/10260/2018	22.63
+A/Bretagne/1413/2017	A/Singapore/INFIMH-16-0019/2016	5.66
+A/Bretagne/1413/2017	A/Switzerland/8060/2017	0.71
+A/Bretagne/1413/2017	A/Netherlands/10260/2018	16.0
+A/Singapore/INFIMH-16-0019/2016	A/Netherlands/10260/2018	32.0
+A/Switzerland/8060/2017	A/England/538/2018	11.31
+A/Switzerland/8060/2017	A/Netherlands/10260/2018	16.0
+A/England/538/2018	A/Netherlands/10260/2018	64.0
+A/Stockholm/6/2014	A/Hong Kong/5738/2014	2.83
+A/Stockholm/6/2014	A/Bretagne/1413/2017	2.83
+A/Stockholm/6/2014	A/Singapore/INFIMH-16-0019/2016	8.0
+A/Stockholm/6/2014	A/Hong Kong/656/2018	2.83
+A/Stockholm/6/2014	A/Switzerland/8060/2017	8.0
+A/Hong Kong/5738/2014	A/Bretagne/1413/2017	1.41
+A/Hong Kong/5738/2014	A/Singapore/INFIMH-16-0019/2016	2.83
+A/Bretagne/1413/2017	A/Hong Kong/656/2018	1.0
+A/Singapore/INFIMH-16-0019/2016	A/Hong Kong/656/2018	5.66
+A/Singapore/INFIMH-16-0019/2016	A/Switzerland/8060/2017	5.66
+A/Hong Kong/5738/2014	A/Hong Kong/656/2018	2.0
+A/Bretagne/1413/2017	A/Switzerland/8060/2017	1.41
+A/Singapore/INFIMH-16-0019/2016	A/Switzerland/8060/2017	4.0
+A/Hong Kong/656/2018	A/Switzerland/8060/2017	1.41
+A/Stockholm/6/2014	A/Bretagne/1413/2017	8.0
+A/Stockholm/6/2014	A/Hong Kong/656/2018	5.66
+A/Hong Kong/5738/2014	A/Singapore/INFIMH-16-0019/2016	4.0
+A/Bretagne/1413/2017	A/Singapore/INFIMH-16-0019/2016	11.31
+A/Hong Kong/5738/2014	A/Bretagne/1413/2017	2.0
+A/Bretagne/1413/2017	A/Hong Kong/656/2018	2.0
+A/Hong Kong/656/2018	A/Switzerland/8060/2017	2.0
+A/Stockholm/6/2014	A/Singapore/INFIMH-16-0019/2016	16.0
+A/Stockholm/6/2014	A/Switzerland/8060/2017	16.0
+A/Hong Kong/5738/2014	A/Hong Kong/656/2018	2.83
+A/Stockholm/6/2014	A/Singapore/INFIMH-16-0019/2016	11.31
+A/Bretagne/1413/2017	A/Singapore/INFIMH-16-0019/2016	4.0
+A/Singapore/INFIMH-16-0019/2016	A/Hong Kong/656/2018	4.0
+A/Stockholm/6/2014	A/Switzerland/8060/2017	22.63
+A/Hong Kong/5738/2014	A/Switzerland/8060/2017	2.0
+A/Stockholm/6/2014	A/Netherlands/10260/2018	64.0
+A/Hong Kong/5738/2014	A/England/538/2018	0
+A/Hong Kong/5738/2014	A/Netherlands/10260/2018	11.31
+A/Singapore/INFIMH-16-0019/2016	A/England/538/2018	0
+A/Singapore/INFIMH-16-0019/2016	A/Netherlands/10260/2018	16.0
+A/Switzerland/8060/2017	A/England/538/2018	16.0
+A/Switzerland/8060/2017	A/Netherlands/10260/2018	32.0
+A/England/538/2018	A/Netherlands/10260/2018	0
