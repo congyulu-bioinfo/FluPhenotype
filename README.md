@@ -1,5 +1,5 @@
 # FluPhenotype
-Test files for FluPhenotype
+Test files for FluPhenotype    
 FluPhenotype is a One-stop platform for early warnings of influenza A viruses. The files in this project are test files and results for FluPhenotype.  
 FluPhenotype Website: http://www.computationalbiology.cn:18888/IVEW  
 
